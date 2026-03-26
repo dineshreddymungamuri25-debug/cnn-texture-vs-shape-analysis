@@ -68,7 +68,6 @@ Conclusion: CNNs demonstrate a stronger reliance on texture than shape in classi
 
 ```
 ├── cnn_texture_vs_shape.ipynb
-├── images/
 ├── outputs/
 ├── README.md
 ├── LICENSE
