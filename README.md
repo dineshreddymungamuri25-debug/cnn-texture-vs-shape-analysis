@@ -73,3 +73,40 @@ Conclusion: CNNs demonstrate a stronger reliance on texture than shape in classi
 ├── LICENSE
 ```
 
+---
+
+## Requirements
+
+- Python 3.9+
+- torch
+- torchvision
+- matplotlib
+- opencv-python
+
+---
+
+## How to Run
+
+1. Install dependencies:
+pip install torch torchvision matplotlib opencv-python
+
+
+2. Run the notebook:
+
+
+jupyter notebook cnn_texture_vs_shape.ipynb
+
+
+---
+
+## Accessibility
+
+- Colourblind-friendly colormaps are used (cividis, viridis)  
+- Figures include descriptive captions  
+- Clear structure is used for readability  
+
+---
+
+## License
+
+This project is released under the MIT License for academic use.
