@@ -65,6 +65,10 @@ The study consists of three main components:
 
 Conclusion: CNNs demonstrate a stronger reliance on texture than shape in classification tasks.
 
----
+├── cnn_texture_vs_shape.ipynb
+├── images/
+├── outputs/
+├── README.md
+
 
 
